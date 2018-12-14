@@ -13,3 +13,6 @@ flutter:
   plugin:
     androidPackage: pl.lukaszbyjos.firebaseinvite
     pluginClass: FirebaseInvitePlugin
+
+environment:
+  sdk: ">=2.0.0-dev.58.0 <3.0.0"
